@@ -2,6 +2,14 @@
 
 This repository contains my Low Level Design practice implementations in Java, focused on mastering OOP principles, SOLID principles, design patterns, and real-world interview-style system design problems.
 
+## 🧪 Design Philosophy
+
+- Prefer composition over inheritance
+- Code to interfaces, not implementations
+- Keep classes small and focused
+- Ensure open for extension, closed for modification
+- Maintain clear separation of responsibilities
+
 ---
 
 ## 📌 Goals
@@ -62,4 +70,13 @@ Each problem includes:
 
 ---
 
+## 📊 Future Enhancements
+
+- Add UML diagrams for each LLD problem
+- Add unit tests
+- Convert to Spring Boot modular structure
+- Add logging framework
+
 ## 🗂 Project Structure
+
+---
